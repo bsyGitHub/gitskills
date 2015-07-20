@@ -6,6 +6,6 @@
 20-07
 
 我是 现在是修复的BUG ，又一个新内容了
-我是maser分支的内容。是又新的内容了
+我是maser分支的内容。这是真正的修复的内容 bug issue-101
 bsy branch 20-14
 bsy dev 
